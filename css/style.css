@@ -168,7 +168,13 @@ body {
   margin: 0 auto;
   max-width: 900px;
   padding-top: 8rem;
-  width: 80%;
+  width: 90%;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    width: 80%;
+  }
 }
 
 .logo {
