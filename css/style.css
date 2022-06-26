@@ -167,7 +167,7 @@ textarea {
 body {
   margin: 0 auto;
   max-width: 900px;
-  padding-top: 8rem;
+  padding-top: 6rem;
   width: 90%;
 }
 
@@ -185,6 +185,10 @@ body {
 .logo img {
   display: block;
   margin: 0 auto;
+}
+
+nav {
+  padding: 1rem 0;
 }
 
 nav ul {
