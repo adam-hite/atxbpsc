@@ -226,8 +226,13 @@ h2 {
   text-align: center;
 }
 
+details {
+  padding-bottom: 3rem;
+}
+
 summary {
   color: #4E009A;
+  cursor: pointer;
   text-align: center;
 }
 
