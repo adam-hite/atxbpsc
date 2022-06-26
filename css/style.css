@@ -209,7 +209,7 @@ nav li + li {
 }
 
 main img {
-  border: 10px solid #002c9a;
+  border: 10px solid #0a432d;
   border-radius: 2rem;
     box-shadow: 0 1px 1px rgba(0,0,0,0.12), 
                 0 2px 2px rgba(0,0,0,0.12), 
@@ -222,7 +222,18 @@ h2 {
   color: #4E009A;
   font-family: 'Amatic SC';
   font-size: 60px;
+  text-decoration: underline;
   text-align: center;
+}
+
+summary {
+  color: #4E009A;
+  text-align: center;
+}
+
+summary h2 {
+  display: inline-block;
+  vertical-align: middle;
 }
 
 strong {
